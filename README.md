@@ -10,3 +10,6 @@ jos haluat lisätä reseptin:
   - git commit -m "lisäsin reseptin <RESEPTIN_NIMI>"
   - git push
 jos et ole aikasemmin lisännyt reseptiä, pyydä että sinut lisätään projektin ylläpitäjäksi.
+
+# Reseptit
+[Esimerkki resepti](./recipes/example_recipe.md)
