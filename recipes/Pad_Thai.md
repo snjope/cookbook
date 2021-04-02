@@ -3,7 +3,7 @@
 Lime (optional) 0.5  
 Tamarind Paste (optional) 2 tbsp     
 Fish Sauce 2 tbsp   
-Thai Sugar (optional) 3 tbsp   
+Thai Sugar 3 tbsp   
 Soy Sauce 1 tbsp    
 Rice Vinegar 1-2 tbsp    
 
