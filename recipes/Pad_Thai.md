@@ -33,4 +33,4 @@ Add lime juice. Garnish with scallions.
 
 **Notes**
 
-* For more heat, add any hot sauce to pad thai sauce.
+For more heat, add any hot sauce to pad thai sauce.  
